@@ -1,0 +1,36 @@
+## Generated files & directories
+*.bin
+*.class
+*.db
+*.DS_Store
+*.jar
+*.lock
+*.log*
+*.tmp
+cache.*
+Desktop.ini
+Thumbs.db
+
+classes/
+bin/
+build/
+gen/
+log/
+logs/
+reports/
+target/
+tmp/
+out/
+
+## IDE specific files
+.classpath
+.project
+.settings
+*.iml
+*.ipr
+*.iws
+.idea
+.idea_modules
+
+## Allow
+!gradle/wrapper/gradle-wrapper.jar
